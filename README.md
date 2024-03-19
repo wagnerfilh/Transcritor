@@ -30,5 +30,5 @@ Certifique-se de seguir os termos de serviço da OpenAI ao usar este script para
 ## Observação
 
 Esse código está pronto para ser usado direto no Colaboratory.  
-Apenas uma coisa deve ser ajustada em um notebook do Colaboratory recém criado ou ainda não ajustado: 
+Há apenas uma coisa deve ser ajustada em um notebook do Colaboratory recém criado ou ainda não ajustado: 
 - `Ambiente de execução -> Alterar o tipo de ambiente de execução -> Acelerador de hardware -> T4 GPU -> Salvar.`
